@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 
 !kaggle datasets download -d ashishjangra27/face-mask-12k-images-dataset
 
@@ -171,9 +171,3 @@ for box in boxes:
 plt.imshow(img)
 
 plt.imshow(img)
-
-!zip -r facedet.zip facedet
-
-model.save('facedet')
-
-!wget https://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNDc2ODQyOSIsImRlbGl2ZXJ5X2lkIjoiNWI5Y3VmbnNtZTFqZGJhaGNmdWsiLCJ1cmwiOiJodHRwczovL3MzLXVzLXdlc3QtMi5hbWF6b25hd3MuY29tL3N0YXRpYy5weWltYWdlc2VhcmNoLmNvbS9mYWNlLW1hc2stZGV0ZWN0aW9uL2ZhY2UtbWFzay1kZXRlY3Rvci56aXA_X19zPWo1ZXg4Y21hZXp6YXhteWoyNWhrIn0
