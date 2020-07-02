@@ -30,5 +30,5 @@ high accuracy of 99.98% on training data, 99.56% on validation data and 99.75% o
 <h3> Face mask detector applied on real-life images </h3>
 <img src="results/first.PNG" width="500">                                                                  
 
-<h3> Future Scope </h3>
+<h2> Future Scope </h2>
 Working on increasing the accuracy and practicality of the model as well as trying one-detector framework such as YOLO
