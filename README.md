@@ -13,7 +13,22 @@ convolutional neural network therefore requires less
 computational power and can be easily embedded in computer
 vision systems and mobile. As a result, it can create a low-cost
 mask detector system which can help to identify whether a
-person is wearing a mask or not and act as a surveillance system
-as it works for both real time images and videos. The face
-detector model achieved high accuracy of 99.98% on training
-data, 99.56% on validation data and 99.75% on testing data.
+person is wearing a mask or not and act as a surveillance system. 
+The model has two-stage detector framework and employs 
+transfer learning using MobileNetV2.The face detector model achieved 
+high accuracy of 99.98% on training data, 99.56% on validation data and 99.75% on testing data.
+
+<h2> Results </h2>
+
+<h3> Confusion Matrix </h3>
+<img src="results/cm.PNG" width="500">
+
+
+<h3> Accuracy and Loss Graph </h3>
+<img src="results/graph.png" width="500">                                 
+
+<h3> Face mask detector applied on real-life images </h3>
+<img src="results/first.PNG" width="500">                                                                  
+
+<h3> Future Scope </h3>
+Working on increasing the accuracy and practicality of the model as well as trying one-detector framework such as YOLO
