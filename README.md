@@ -19,7 +19,8 @@ transfer learning using MobileNetV2.The face detector model achieved
 high accuracy of 99.98% on training data, 99.56% on validation data and 99.75% on testing data.
 
 <h2> Dataset Used <h2>
-  https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset?
+ 
+ https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
 
 <h2> Results </h2>
 
