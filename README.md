@@ -26,7 +26,6 @@ high accuracy of 99.98% on training data, 99.56% on validation data and 99.75% o
 <h3> Confusion Matrix </h3>
 <img src="results/cm.PNG" width="500">
 
-
 <h3> Accuracy and Loss Graph </h3>
 <img src="results/graph.png" width="500">                                 
 
